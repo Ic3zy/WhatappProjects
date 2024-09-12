@@ -5,7 +5,7 @@ module.exports = {
     sudoUsers: ['905511550381@c.us'], // Numaranızın sonuna  @c.us eklmelisiniz
     kickmeMessage: `Elveda ben kaçar.`, // Kickme mesajıdır.
     debug: true, // Geliştiricilere özeldir. true || false
-    chromepath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // bilgisayarınızda chrome kurulu değil ise boş bırakınız.
+    chromepath: '', // bilgisayarınızda chrome kurulu değil ise boş bırakınız. C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe
     headless: false, // false ise client görünür mod da açılır. false || true
     grouphgmsg: true,
     fakeban: true,
