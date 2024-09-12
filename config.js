@@ -6,7 +6,7 @@ module.exports = {
     kickmeMessage: `Elveda ben kaçar.`, // Kickme mesajıdır.
     debug: true, // Geliştiricilere özeldir. true || false
     chromepath: '', // bilgisayarınızda chrome kurulu değil ise boş bırakınız. C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe
-    headless: false, // false ise client görünür mod da açılır. false || true
+    headless: true, // false ise client görünür mod da açılır. false || true
     grouphgmsg: true,
     fakeban: true,
     fakebantruegroup: ['12xxxxxxxx@g.us'], // 
